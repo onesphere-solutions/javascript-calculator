@@ -1,4 +1,4 @@
 # javascript-calculator
 A javascript calculator
 Great
-understanding the functionalities code makes it easy to follow and understans most especially when you use semantic for expressions
+understanding the functionalities of codes makes it easy for you  to follow and understands your work most especially when you use semantic for expressions
